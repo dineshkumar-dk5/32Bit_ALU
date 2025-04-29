@@ -112,8 +112,7 @@ endmodule
   After this you can see the window like below
 
 
-![image](https://github.com/user-attachments/assets/42aa29e6-74e0-4216-a6fe-44f3fd88ba4e)
-
+![image](https://github.com/user-attachments/assets/631cad6c-2e9a-400a-b4a1-c86eea2748cf)
 
 
 
@@ -136,8 +135,7 @@ endmodule
 
 
 
-![{47DB3E47-E0EE-40E4-A170-8CD4B23A1199}](https://github.com/user-attachments/assets/a016f358-4518-4c64-b1a3-6c37b7f9c2dd)
-
+![image](https://github.com/user-attachments/assets/8833db93-3e80-42bc-956d-7b794aa84fca)
 
 ## Fig 3: Setting Multi-step simulation
 
@@ -147,7 +145,7 @@ endmodule
   Click the cds.lib file and save the file by clicking on Save option
 
 
-![image](https://github.com/user-attachments/assets/21338544-7859-45cc-a4fb-89e9041716df)
+![image](https://github.com/user-attachments/assets/483d252e-61d8-4630-b730-9af107c69bd5)
 
 
 
@@ -165,7 +163,7 @@ endmodule
   A Click “OK” in the “nclaunch: Open Design Directory” window as shown in below figure
 
 
-![4](https://github.com/user-attachments/assets/1eed767e-edd8-4536-ac4f-91240aaceec0)
+![image](https://github.com/user-attachments/assets/19f82f48-7a14-4774-a127-6488368b40e0)
 
 
 
@@ -182,8 +180,7 @@ endmodule
   To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.
 
 
-![7](https://github.com/user-attachments/assets/98ebc1ea-ae64-434b-8cbc-da028a5f767b)
-
+![image](https://github.com/user-attachments/assets/8d92967a-d25a-4046-af78-d5fe31f2d6d6)
 
 
 
@@ -214,7 +211,7 @@ endmodule
   Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
 
-![5](https://github.com/user-attachments/assets/d48b24c5-9429-4f5a-9478-904102b317ab)
+![image](https://github.com/user-attachments/assets/60b40095-91fe-4d55-9f71-ab2a3362d784)
 
 
 
@@ -256,7 +253,7 @@ endmodule
 
 
 
-![WhatsApp Image 2024-11-23 at 15 54 09_013d45cd](https://github.com/user-attachments/assets/f1194c2c-48f8-4b38-bc2e-96b7a35c1d1a)
+![image](https://github.com/user-attachments/assets/2ec591eb-3154-4573-8e1d-e4a3f6ec1a20)
 
 
 
@@ -276,7 +273,7 @@ endmodule
 
   Steps for simulation – Run the simulation command with simulator options
 
-![8](https://github.com/user-attachments/assets/c07cee3a-e4bb-4bfc-a01d-ae5b46d75286)
+![image](https://github.com/user-attachments/assets/8fc5c62a-1460-44fe-aa44-28d6148c2fbf)
 
 
 
@@ -284,8 +281,7 @@ endmodule
 ## Fig 9: Design Browser window for simulation
 
 
-![image](https://github.com/user-attachments/assets/a187f66c-6e51-449d-821e-97241eea5622)
-
+![image](https://github.com/user-attachments/assets/671bc5fc-5750-45ff-aa9d-2fcc394b45e9)
 
 
 
